@@ -1,0 +1,8 @@
+{
+  "name": "AI Studio Web",
+  "description": "A professional-grade, mobile-responsive AI Studio featuring multi-model chat, intelligent code editing, and a suite of AI-powered tools powered by Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
